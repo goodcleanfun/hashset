@@ -1,6 +1,6 @@
 {
     "name": "set",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "repo": "goodcleanfun/set",
     "description": "Hash-based set operations using khash",
     "keywords": ["hashset", "set", "khash"],
