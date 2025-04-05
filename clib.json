@@ -1,0 +1,17 @@
+{
+    "name": "hashset",
+    "version": "0.0.0",
+    "repo": "goodcleanfun/hashset",
+    "description": "Hash-based set operations using khash",
+    "keywords": ["hashset", "set", "khash"],
+    "license": "MIT",
+    "dependencies": {
+      "goodcleanfun/khash": "*"
+    },
+    "development": {
+      "silentbicycle/greatest": "*"
+    },
+    "src": [
+      "src/hashset.h"
+    ]
+  }
