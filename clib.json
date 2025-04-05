@@ -1,7 +1,7 @@
 {
-    "name": "hashset",
+    "name": "set",
     "version": "0.1.0",
-    "repo": "goodcleanfun/hashset",
+    "repo": "goodcleanfun/set",
     "description": "Hash-based set operations using khash",
     "keywords": ["hashset", "set", "khash"],
     "license": "MIT",
@@ -12,6 +12,6 @@
       "silentbicycle/greatest": "*"
     },
     "src": [
-      "src/hashset.h"
+      "src/set.h"
     ]
   }
